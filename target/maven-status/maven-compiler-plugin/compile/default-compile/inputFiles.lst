@@ -1,0 +1,13 @@
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/IotGeofenceMonitorApplication.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/application/ports/input/MonitorDeviceUseCase.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/application/ports/output/DeviceOwnerRepositoryPort.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/application/ports/output/LoadZonesPort.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/application/ports/output/NotificationPort.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/application/ports/output/SaveAlertPort.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/application/service/GeofenceMonitorService.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/domain/model/Alert.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/domain/model/CircularZone.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/domain/model/DeviceOwner.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/domain/model/DeviceSignal.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/domain/model/Location.java
+/Users/burudev/Dev/geofence/iot-geofence-monitor/src/main/java/com/burutech/iotgeofencemonitor/domain/model/Zone.java

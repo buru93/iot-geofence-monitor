@@ -1,0 +1,13 @@
+com/burutech/iotgeofencemonitor/application/ports/output/LoadZonesPort.class
+com/burutech/iotgeofencemonitor/domain/model/Alert.class
+com/burutech/iotgeofencemonitor/application/ports/output/SaveAlertPort.class
+com/burutech/iotgeofencemonitor/domain/model/Location.class
+com/burutech/iotgeofencemonitor/application/service/GeofenceMonitorService.class
+com/burutech/iotgeofencemonitor/domain/model/DeviceSignal.class
+com/burutech/iotgeofencemonitor/application/ports/input/MonitorDeviceUseCase.class
+com/burutech/iotgeofencemonitor/domain/model/CircularZone.class
+com/burutech/iotgeofencemonitor/application/ports/output/NotificationPort.class
+com/burutech/iotgeofencemonitor/IotGeofenceMonitorApplication.class
+com/burutech/iotgeofencemonitor/application/ports/output/DeviceOwnerRepositoryPort.class
+com/burutech/iotgeofencemonitor/domain/model/Zone.class
+com/burutech/iotgeofencemonitor/domain/model/DeviceOwner.class
