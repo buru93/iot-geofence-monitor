@@ -11,7 +11,7 @@ public class HttpNotificationAdapter implements NotificationPort {
 
     @Override
     public void notify(Alert alert) {
-        // TODO: Implement real HTTP call to Notification Service
+        // TODO: IMPLEMENT THE SERVICE IN THE FUTURE
         log.info("[NOTIFICATION SENT] To: {} | Message: {}", alert.getOwner().email(), alert.getMessage());
     }
 }

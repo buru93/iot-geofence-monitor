@@ -11,7 +11,7 @@ public class RestDeviceOwnerAdapter implements DeviceOwnerRepositoryPort {
 
     @Override
     public Optional<DeviceOwner> findOwnerByDeviceId(String deviceId) {
-        // TODO: Implement real WebClient call to Device Service
+        // TODO: IMPLEMENT THE SERVICE IN THE FUTURE
         if ("test-device".equals(deviceId)) {
             return Optional.of(new DeviceOwner("owner-1", "user@test.com", "Test User"));
         }
