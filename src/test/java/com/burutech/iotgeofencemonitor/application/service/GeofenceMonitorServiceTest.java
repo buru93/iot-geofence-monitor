@@ -9,7 +9,6 @@ import com.burutech.iotgeofencemonitor.domain.model.CircularZone;
 import com.burutech.iotgeofencemonitor.domain.model.DeviceOwner;
 import com.burutech.iotgeofencemonitor.domain.model.DeviceSignal;
 import com.burutech.iotgeofencemonitor.domain.model.Location;
-import com.burutech.iotgeofencemonitor.domain.model.Zone;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
@@ -19,7 +18,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import java.time.Instant;
 import java.util.List;
 import java.util.Optional;
-import java.util.UUID;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
